@@ -14,9 +14,11 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-
+  <a href="https://www.crewai.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/imtiazx/imtiazx/blob/main/icons/crewai.png" alt="crew.ai" width="40" height="40"/> 
+  </a>
   <a href="https://langflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="example.png" alt="langflow" width="40" height="40"/> 
+    <img src="https://github.com/imtiazx/imtiazx/blob/main/icons/langflow.png" alt="langflow" width="40" height="40"/> 
   </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
@@ -67,7 +69,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+  <a href="mailto:imtiaz@goagi.one" onclick="navigator.clipboard.writeText('imtiaz@goagi.one')">
+    <img align="center" src="https://github.com/imtiazx/imtiazx/blob/main/icons/mail.png" alt="email" height="30" width="40" />
+  </a>
   <a href="https://twitter.com/goagi_one" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goagi_one" height="30" width="40" />
   </a>
