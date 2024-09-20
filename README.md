@@ -14,9 +14,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <a href="https://www.crewai.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/imtiazx/imtiazx/blob/main/icons/crewai.png" alt="crew.ai" width="40" height="40"/> 
-  </a> 
+
   <a href="https://langflow.org/" target="_blank" rel="noreferrer"> 
     <img src="example.png" alt="langflow" width="40" height="40"/> 
   </a> 
@@ -62,16 +60,14 @@
 
 </p>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 </div>
 
 ###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:imtiaz@goagi.one" onclick="navigator.clipboard.writeText('imtiaz@goagi.one')">
-    <img align="center" src="https://github.com/imtiazx/imtiazx/blob/main/icons/mail.png" alt="email" height="30" width="40" />
-  </a>
+
   <a href="https://twitter.com/goagi_one" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goagi_one" height="30" width="40" />
   </a>
