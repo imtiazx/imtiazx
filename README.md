@@ -71,13 +71,16 @@
   <a href="mailto:imtiaz@goagi.one" onclick="navigator.clipboard.writeText('imtiaz@goagi.one')">
     <img align="center" src="https://github.com/imtiazx/imtiazx/blob/main/icons/mail.png" alt="email" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/goagi_one" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goagi_one" height="30" width="40" />
-  </a>
   <a href="https://linkedin.com/in/imtiazx" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imtiazx" height="30" width="40" />
   </a>
+  <a href="https://www.youtube.com/@GoAGI_One" target="blank">
+    <img align="center" src="https://github.com/imtiazx/imtiazx/blob/main/icons/youtube.png" alt="YouTube" height="30" width="40" />
+  </a>
   <a href="https://kaggle.com/ximtiazx" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ximtiazx" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/goagi_one" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goagi_one" height="30" width="40" />
   </a>
 </p>
