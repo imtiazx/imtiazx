@@ -39,7 +39,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
   <a href="https://spacy.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/img/logo.svg" alt="spacy" width="40" height="40"/> 
+    <img src="https://github.com/imtiazx/imtiazx/blob/main/icons/spacy.png" alt="spacy" width="40" height="40"/> 
   </a> 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
