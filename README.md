@@ -70,7 +70,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:imtiaz@goagi.one" onclick="navigator.clipboard.writeText('imtiaz@goagi.one')">
-    <img align="center" src="example.png" alt="email" height="30" width="40" />
+    <img align="center" src="https://github.com/imtiazx/imtiazx/blob/main/icons/mail.png" alt="email" height="30" width="40" />
   </a>
   <a href="https://twitter.com/goagi_one" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goagi_one" height="30" width="40" />
