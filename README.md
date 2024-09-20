@@ -57,4 +57,14 @@
 </div>
 
 
+### 📺 Latest YouTube Videos
 
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Langflow AI Devs Competition - Challenge 2](https://ytcards.demolab.com/?id=5xd5IdUYyJo&title=Langflow+AI+Devs+Competition+-+Challenge+2&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0 "Langflow AI Devs Competition - Challenge 2")](https://www.youtube.com/watch?v=5xd5IdUYyJo)
+
+[![3rd Place Winner - Langflow AI Devs Competition - Challenge 1](https://ytcards.demolab.com/?id=JPfS4N3ciQA&title=3rd+Place+Winner+-+Langflow+AI+Devs+Competition+-+Challenge+1&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0 "3rd Place Winner - Langflow AI Devs Competition - Challenge 1")](https://www.youtube.com/watch?v=JPfS4N3ciQA)
+<!-- END YOUTUBE-CARDS -->
+
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@GoAGI_One?sub_confirmation=1)
+#
