@@ -67,3 +67,4 @@
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@GoAGI_One?sub_confirmation=1)
 #
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)
