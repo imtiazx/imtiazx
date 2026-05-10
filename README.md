@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8611A&height=160&section=header&text=Imtiaz.&fontSize=58&fontColor=ffffff&fontAlignY=55&animation=fadeIn&fontAlign=50" width="100%" />
-
-<!-- self-hosted animated SVG — drop header.svg into repo root alongside README.md -->
-<img src="./header.svg" width="800" />
+<img src="./header.svg" width="100%" />
 
 <br/>
 
