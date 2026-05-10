@@ -1,0 +1,55 @@
+<svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: none; }
+    .sub { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 13px; fill: #888888; }
+    .tw  { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 13px; fill: #E8611A; }
+    .cur { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 13px; fill: #E8611A;
+           animation: blink 1s step-end infinite; }
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+
+    /* line 1 */
+    .l1 { animation: type1 18s ease steps(45,end) infinite; }
+    @keyframes type1 {
+      0%   { clip-path: inset(0 100% 0 0); opacity:1; }
+      15%  { clip-path: inset(0 0% 0 0);   opacity:1; }
+      28%  { clip-path: inset(0 0% 0 0);   opacity:1; }
+      33%  { clip-path: inset(0 100% 0 0); opacity:0; }
+      100% { clip-path: inset(0 100% 0 0); opacity:0; }
+    }
+    /* line 2 */
+    .l2 { animation: type2 18s ease steps(42,end) infinite; }
+    @keyframes type2 {
+      0%   { clip-path: inset(0 100% 0 0); opacity:0; }
+      30%  { clip-path: inset(0 100% 0 0); opacity:0; }
+      33%  { clip-path: inset(0 100% 0 0); opacity:1; }
+      48%  { clip-path: inset(0 0% 0 0);   opacity:1; }
+      61%  { clip-path: inset(0 0% 0 0);   opacity:1; }
+      66%  { clip-path: inset(0 100% 0 0); opacity:0; }
+      100% { clip-path: inset(0 100% 0 0); opacity:0; }
+    }
+    /* line 3 */
+    .l3 { animation: type3 18s ease steps(38,end) infinite; }
+    @keyframes type3 {
+      0%   { clip-path: inset(0 100% 0 0); opacity:0; }
+      63%  { clip-path: inset(0 100% 0 0); opacity:0; }
+      66%  { clip-path: inset(0 100% 0 0); opacity:1; }
+      80%  { clip-path: inset(0 0% 0 0);   opacity:1; }
+      93%  { clip-path: inset(0 0% 0 0);   opacity:1; }
+      97%  { clip-path: inset(0 100% 0 0); opacity:0; }
+      100% { clip-path: inset(0 100% 0 0); opacity:0; }
+    }
+  </style>
+
+  <rect class="bg" width="800" height="80"/>
+
+  <!-- static subtitle -->
+  <text class="sub" x="400" y="22" text-anchor="middle">statistics → data → responsible ai → building</text>
+
+  <!-- typewriter lines — only one visible at a time -->
+  <text class="tw l1" x="400" y="52" text-anchor="middle">still the same curiosity, different tools</text>
+  <text class="tw l2" x="400" y="52" text-anchor="middle">from advising AI to actually building it</text>
+  <text class="tw l3" x="400" y="52" text-anchor="middle">research gave the questions, code answers them</text>
+
+  <!-- blinking cursor -->
+  <text class="cur" x="617" y="52">▌</text>
+</svg>
