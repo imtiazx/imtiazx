@@ -1,15 +1,12 @@
 <div align="center">
 
-<!-- animated header — name only inside wave, subtitle removed from desc param -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E8611A&height=160&section=header&text=Imtiaz.&fontSize=58&fontColor=ffffff&fontAlignY=55&animation=fadeIn&fontAlign=50" width="100%" />
 
-<!-- subtitle line — separate image so it sits cleanly below the wave -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1&pause=999999&color=888888&center=true&vCenter=true&repeat=false&width=500&lines=statistics+%E2%86%92+data+%E2%86%92+responsible+ai+%E2%86%92+building" alt="subtitle" />
+`statistics → data → responsible ai → building`
 
 <br/>
 
-<!-- typewriter — shorter lines so nothing gets cut off -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3400&pause=1800&color=E8611A&center=true&vCenter=true&width=600&lines=data+scientist+%E2%86%92+researcher+%E2%86%92+consultant+%E2%86%92+engineer;%2F%2F+studied+distributions%2C+advised+strategies%2C+now+ships+code;from+%22what+does+the+data+say%3F%22+to+%22what+should+the+system+do%3F%22;statistics+was+the+foundation.+responsible+AI+was+the+conscience.;research+gave+me+the+questions+%E2%80%94+engineering+answers+them." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3400&pause=2000&color=E8611A&center=true&vCenter=true&width=480&lines=still+the+same+curiosity%2C+different+tools;from+advising+AI+to+actually+building+it;stats+%E2%86%92+data+%E2%86%92+ethics+%E2%86%92+engineering;research+gave+the+questions%2C+code+answers+them;responsible+AI+was+the+conscience" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -104,5 +101,4 @@ Scientist   Projects    + Consultant   Researcher    Engineer ◉   / Product
 
 <br/>
 
-<!-- animated footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E8611A&height=80&section=footer" width="100%" />
