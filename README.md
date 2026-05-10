@@ -1,72 +1,48 @@
-<h1 align="left">Hi, I'm Imtiaz.</h1>
-<h3 align="left">A dedicated data scientist with 3+ years of experience.</h3>
+<div align="center">
 
-- I’m currently working on **Generative AI R&D in Industry X.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=120&section=header&text=imtiazx&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=GenAI%20Engineer%20in%20Progress&descAlignY=65&descSize=14&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=120&section=header&text=imtiazx&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=GenAI%20Engineer%20in%20Progress&descAlignY=65&descSize=14&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=120&section=header&text=imtiazx&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=GenAI%20Engineer%20in%20Progress&descAlignY=65&descSize=14&animation=fadeIn" width="100%" />
+</picture>
 
-- I’m currently learning **advanced RAG approaches and multi-agent systems.**
-
-- Check out my portfolio at [https://goagi.one/](https://goagi.one/)
-
-###
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:imtiaz@goagi.one" onclick="navigator.clipboard.writeText('imtiaz@goagi.one')">
-    <img align="left" alt="Email" width="30px" style="padding-right:10px;" src="https://github.com/imtiazx/imtiazx/blob/main/icons/mail.png" />
-  </a>
-  <a href="https://linkedin.com/in/imtiazx" target="blank">
-    <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-  </a>
-  <a href="https://www.youtube.com/@GoAGI_One" target="blank">
-    <img align="left" alt="YouTube" width="30px" style="padding-right:10px;" src="https://github.com/imtiazx/imtiazx/blob/main/icons/youtube.png" />
-  </a>
-  <a href="https://kaggle.com/ximtiazx" target="blank">
-    <img align="left" alt="Kaggle" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" />
-  </a>
-  <a href="https://twitter.com/goagi_one" target="blank">
-    <img align="left" alt="Twitter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
-  </a>
-</p>
-<br />
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="left" alt="Crew AI" width="30px" style="padding-right:10px;" src="https://github.com/imtiazx/imtiazx/blob/main/icons/crewai.png" />
-  <img align="left" alt="Langflow" width="30px" style="padding-right:10px;" src="https://github.com/imtiazx/imtiazx/blob/main/icons/langflow.png" />
-  <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
-  <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />
-  <img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-  <img align="left" alt="Scikit-Learn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-  <img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
-  <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
-  <img align="left" alt="SpaCy" width="30px" style="padding-right:10px;" src="https://github.com/imtiazx/imtiazx/blob/main/icons/spacy.png" />
-  <img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />
-  <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />
-  <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-</p>
-<br/>
-
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 </div>
 
+**Data scientist and AI consultant going deep on GenAI engineering** — RAG systems, agentic pipelines, and the infrastructure that makes LLMs production-ready.
 
-### 📺 Latest YouTube Videos
+5 years at **Accenture Industry X** &nbsp;·&nbsp; Kolkata, India &nbsp;·&nbsp; 3rd place, LangFlow Hackathon India
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Langflow AI Devs Competition - Final Challenge - DecodeBite](https://ytcards.demolab.com/?id=dcASd2lG66o&title=Langflow+AI+Devs+Competition+-+Final+Challenge+-+DecodeBite&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0 "Langflow AI Devs Competition - Final Challenge - DecodeBite")](https://www.youtube.com/watch?v=dcASd2lG66o)
-[![Langflow AI Devs Competition - Challenge 3](https://ytcards.demolab.com/?id=HR5Sq5vxyis&title=Langflow+AI+Devs+Competition+-+Challenge+3&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0 "Langflow AI Devs Competition - Challenge 3")](https://www.youtube.com/watch?v=HR5Sq5vxyis)
-[![Langflow AI Devs Competition - Challenge 2](https://ytcards.demolab.com/?id=5xd5IdUYyJo&title=Langflow+AI+Devs+Competition+-+Challenge+2&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0 "Langflow AI Devs Competition - Challenge 2")](https://www.youtube.com/watch?v=5xd5IdUYyJo)
-[![3rd Place Winner - Langflow AI Devs Competition - Challenge 1](https://ytcards.demolab.com/?id=JPfS4N3ciQA&title=3rd+Place+Winner+-+Langflow+AI+Devs+Competition+-+Challenge+1&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0 "3rd Place Winner - Langflow AI Devs Competition - Challenge 1")](https://www.youtube.com/watch?v=JPfS4N3ciQA)
-<!-- END YOUTUBE-CARDS -->
+---
 
+### What I'm building
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@GoAGI_One?sub_confirmation=1)
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| **RAGScope** | Benchmarks 5 RAG strategies side by side. Live dashboard with faithfulness, latency, and context precision per strategy. | `RAG` `RAGAS` `pgvector` `FastAPI` `LangSmith` | 🟣 Building |
+| **DocuAgent** | Supervisor agent decomposes documents and routes to specialist sub-agents for clause extraction, risk annotation, and cross-referencing. Fully streaming with Redis-backed memory. | `LangGraph` `Claude API` `Redis` `WebSockets` | 🟡 Planned |
+| **SafeScore** | Red-teaming toolkit for deployed GenAI apps. Tests the attack surface of system prompts, RAG pipelines, and agentic tool configs. Generates structured audit reports. | `Responsible AI` `FastAPI` `React` | 🟡 Planned |
+| **LLM Observatory** | Drop-in SDK and self-hostable dashboard. Captures token usage, cost, p50/p95 latency, and output quality. Anomaly alerts on spikes. | `Python SDK` `FastAPI` `TimescaleDB` `Docker` | 🟡 Planned |
+| **GraphRAG Lite** | Combines entity extraction, graph traversal, and vector search. Shows the reasoning path behind every retrieved result. Benchmarked against naive RAG on multi-hop questions. | `NetworkX` `Qdrant` `Claude API` `D3.js` | 🟡 Planned |
+| **PromptOps** | Version control for prompts with A/B testing and Claude-as-judge evaluation. Tracks win rate across versions in production. Visual diff for natural language changes. | `FastAPI` `PostgreSQL` `Redis` `React` | 🟡 Planned |
+
+---
+
+### Writing
+
+Posts coming to [blog.imtiaz.dev](https://blog.imtiaz.dev)
+
+Topics I write about: RAG architecture, responsible AI, agentic systems, LLM evals, and the gap between AI prototypes and production systems.
+
+---
+
+### Connect
+
+[imtiazx@protonmail.com](mailto:imtiazx@protonmail.com) &nbsp;·&nbsp; [linkedin.com/in/imtiazx](https://linkedin.com/in/imtiazx) &nbsp;·&nbsp; [imtiazx.ai](https://imtiazx.ai)
+
+<div align="center">
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=60&section=footer" width="100%" />
+</picture>
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=imtiazx&color=blue&style=flat-square)
