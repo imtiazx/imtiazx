@@ -2,13 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E8611A&height=160&section=header&text=Imtiaz.&fontSize=58&fontColor=ffffff&fontAlignY=55&animation=fadeIn&fontAlign=50" width="100%" />
 
-`statistics → data → responsible ai → building`
+<!-- self-hosted animated SVG — drop header.svg into repo root alongside README.md -->
+<img src="./header.svg" width="800" />
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3400&pause=2000&color=E8611A&center=true&vCenter=true&width=480&lines=still+the+same+curiosity%2C+different+tools;from+advising+AI+to+actually+building+it;stats+%E2%86%92+data+%E2%86%92+ethics+%E2%86%92+engineering;research+gave+the+questions%2C+code+answers+them;responsible+AI+was+the+conscience" alt="Typing SVG" />
-
-<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=imtiazx&color=E8611A&style=flat-square&label=profile+views)
 
