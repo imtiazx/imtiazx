@@ -29,7 +29,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=imtiazx&color=E8611A&style=flat-square&label=profile+views)
 
