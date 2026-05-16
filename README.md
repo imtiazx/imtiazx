@@ -25,7 +25,7 @@
 
 - 5 years at Accenture Industry X
 - 25+ enterprise GenAI studies delivered
-- 4 disciplines: statistics, data science, responsible AI, engineering
+- 4 disciplines: statistics, data science, responsible AI, forward deployed engineering
 
 ---
 
